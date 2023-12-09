@@ -9,4 +9,6 @@ P2. Hospital Management System (ER Diagram) : https://docs.google.com/document/d
 
 P3. Hospital Management System (EER Diagram) : https://docs.google.com/document/d/1GwzWkQX8Amnw8hebR1mMebLK7ABopO19lyJP0CqjLOg/edit
 
+P4. Hospital Management System (SQL)
+
 
