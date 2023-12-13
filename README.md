@@ -18,7 +18,7 @@ SQL File Link :
 https://github.com/shaikhmohammedanzal/Group14_DMDD_Project/blob/main/P4/HMS-DMDD-Group14-Project.sql
 
 Data Visualization link: 
-https://github.com/shaikhmohammedanzal/Group14_DMDD_Project/blob/main/P4/Visualization.pbix
+https://app.powerbi.com/view?r=eyJrIjoiMzExY2Q5NTYtZTFmZS00MzAzLTgzMjEtYzlhNTRmNWVhY2MwIiwidCI6ImE4ZWVjMjgxLWFhYTMtNGRhZS1hYzliLTlhMzk4YjkyMTVlNyIsImMiOjN9
 
 GUI Link :
 https://github.com/shaikhmohammedanzal/Group14_DMDD_Project/blob/main/P4/GUI.py
